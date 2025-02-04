@@ -1,5 +1,11 @@
 # React + Vite
 
+Key features:
+
+1. Crop the image
+2. Resizing the image to the specified dimension, current 320px, resulting in fast upload, download and backend processing.
+3. 9MB image, can be reduced to 7kb image.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
