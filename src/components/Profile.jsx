@@ -9,6 +9,7 @@ const Profile = () => {
   const [modalOpen, setModalOpen] = useState(false);
 
   const updateAvatar = (imgSrc) => {
+    console.log("updateAvatar " + imgSrc);
     avatarUrl.current = imgSrc;
   };
 
